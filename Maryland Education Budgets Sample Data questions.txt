@@ -32,16 +32,38 @@ Largest federal - Sarbanes: $467 million     largest state -  Sarbanes: $3.4 bil
 Smallest federal - Raskin: $158 million     smallest state -  Raskin: $1.3 billion
 
 6. Federal and state funding for counties with largest and smallest white populations?
-Largest federal- largest state - 
-Smallest federal- smallest state - 
+Largest white population, federal funds - Montgomery County: 634,136 white people; $120 million   
+Largest white population, state funds - $898.4 million
+Smallest white population, federal funds - Somerset County: $6.5 million 
+Smallest white population, state funds - $44 million 
 
 7. Federal and state funding for counties with largest and smallest black populations?
-Largest federal - largest state - 
-Smallest federal - smallest state - 
+Largest black population, federal funds - Prince George's County: 585,797 black people; $146 million
+Largest black population, state funds - $1.2 billion
+Smallest black population, federal funds - Garrett County: 302 black people; $4.6 million
+Smallest black population, state funds - $25.5 million
 
-8. Federal and state funding for counties with largest and smallest Latino population?
-Largest federal - largest state - 
-Smallest federal - smallest state - 
+8. Federal and state funding for counties with largest and smallest Hispanic population?
+Largest Hispanic population, federal funds - Montgomery County: 209,032 Hispanic people; $120 million
+Largest Hispanic population, state funds - $898 million
+Smallest Hispanic population, federal funds - Garrett County: 356 Hispanic people; $4.6 million
+Smallest Hispamic population, state funds - $25.5 million
+
+9. Counties with largest and smallest spending per capita?
+Largest - Montgomery County: $3,270.89 (Total: 1,052,567; white: 60.25%)     Smallest - Kent County: $1616.51 (Total: 19,383; white: 81.3%)
+
+10. County and spending with largest and smallest percentage white students?
+Largest - Garrett County: $2,031.77 (Total: 29,613; white: 97.5%)     Smallest - Prince George's County: $2602.13 (Total: 909,308; white: 27%)
+
+11. Per capita spending for largest and smallest percentage black students?
+Largest - Prince George's County: $2,602.13 (Total: 909,308; black: 64.4%)     Smallest - Garrett County: $2,031.77 (Total: 29,163; black: 1%)
+
+12. Per capita spending for largest and smallest percentage Asian students?
+Largest - Howard County: $3,165.50 (Total: 323,196; asian: 19.1%)     Smallest - Garrett County: $2,031.77 (Total: 29,613; asian: 0.4%)
+
+13. Per capita spending for largest and smallest percentage Hispanic students?
+Largest - Montgomery County: $3,270.89 (Total: 1,052,567; hispanic: 19.9%)     Smallest - Garrett County: $2,031.77 (Total: 29,613; hispanic: 1.2%)
 
 "Federal and state education funds are not typically recorded per Congressional district. However, when federal education funds for all
-counties in a given district were added, Rep. _ _ _ _ _ had the greatest total amount of federal funds in his district."
+counties in a given district were added, Rep. Sarbanes had the greatest total amount of federal funds in his district. Rep. Raskin had
+the least."
