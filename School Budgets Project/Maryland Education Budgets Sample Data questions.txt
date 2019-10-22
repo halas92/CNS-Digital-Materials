@@ -49,20 +49,40 @@ Largest Hispanic population, state funds - $898 million
 Smallest Hispanic population, federal funds - Garrett County: 356 Hispanic people; $4.6 million
 Smallest Hispamic population, state funds - $25.5 million
 
-9. Counties with largest and smallest spending per capita?
-Largest - Montgomery County: $3,270.89 (Total: 1,052,567; white: 60.25%)     Smallest - Kent County: $1616.51 (Total: 19,383; white: 81.3%)
+9. Counties with largest and smallest per student spending? Total students? Largest student demographics?
+Largest - Somerset County: $21,330 per student; total students: 2,918; largest student demographic: 1,313 black students/45% student population
+Smallest - Queen Anne's County: $14,214 per student; total students: 7,778; largest student demographic: 6,192 white students/79.6% student population
 
-10. County and spending with largest and smallest percentage white students?
-Largest - Garrett County: $2,031.77 (Total: 29,613; white: 97.5%)     Smallest - Prince George's County: $2602.13 (Total: 909,308; white: 27%)
+10. Per student spending for county with largest and smallest percentage white students?
+Largest % white students - Garrett County; 3,674 white students (96.4%); $15,547 per student
+Smallest % white students - Prince George's County; 5,494 white students (4.2%); $17,881 per student
 
-11. Per capita spending for largest and smallest percentage black students?
-Largest - Prince George's County: $2,602.13 (Total: 909,308; black: 64.4%)     Smallest - Garrett County: $2,031.77 (Total: 29,163; black: 1%)
+11. Per student spending for county with largest and smallest percentage black students?
+Largest % black students - Baltimore City; 63,976 black students (79.4%); $19,062 per student
+Smallest % black students - Garrett County; 10 black students (0.3%); $15,547 per student
 
-12. Per capita spending for largest and smallest percentage Asian students?
-Largest - Howard County: $3,165.50 (Total: 323,196; asian: 19.1%)     Smallest - Garrett County: $2,031.77 (Total: 29,613; asian: 0.4%)
+12. Per student spending for county with largest and smallest percentage Asian students?
+Largest % Asian students - Howard County; 12,425 Asian students (21.9%); $18,017 per student
+Smallest % Asian students - Garrett County; 11 Asian students (0.3%); $15,547 per student
 
-13. Per capita spending for largest and smallest percentage Hispanic students?
-Largest - Montgomery County: $3,270.89 (Total: 1,052,567; hispanic: 19.9%)     Smallest - Garrett County: $2,031.77 (Total: 29,613; hispanic: 1.2%)
+13. Per student spending for county with largest and smallest percentage Hispanic students?
+Largest % Hispanic students - Prince George's County; 43,860 Hispanic students (33.1%); $17,882 per student
+Smallest % Hispanic students - Garrett County; 50 Hispanic students (1.3%); $15,547 per student
+
+14. Top five most and least diverse counties with majority demographic and per student funding?
+Most diverse:
+1. Prince George's County - 76,881 black students (58.1%); $17,881 per student
+2. Baltimore City - 63,976 black students (79.4%); $19,062 per student
+3. Charles County - 14,884 black students (55.3%); $16,944.22 per student
+4. Montgomery County - 49,704 Hispanic students (31%); $21,311.80 per student
+5. Howard County - 21,161 white students (37.3%); $18,017 per student
+
+Least diverse:
+1. Garrett County - 3,674 white students (96.4%); $15,548 per student
+2. Allegany County - 7,591 white students (88%); $18,558 per student
+3. Carroll County - 21,112 white students (83.5%); $15,101 per student
+4. Queen Anne's County - 6,192 white students (79.6%); $14,214 per student
+5. Cecil County - 11,793 white students (76.8%); $17,153 per student
 
 "Federal and state education funds are not typically recorded per Congressional district. However, when federal education funds for all
 counties in a given district were added, Rep. Sarbanes had the greatest total amount of federal funds in his district. Rep. Raskin had
