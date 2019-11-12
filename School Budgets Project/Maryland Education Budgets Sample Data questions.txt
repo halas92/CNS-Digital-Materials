@@ -49,9 +49,29 @@ Largest Hispanic population, state funds - $898 million
 Smallest Hispanic population, federal funds - Garrett County: 356 Hispanic people; $4.6 million
 Smallest Hispamic population, state funds - $25.5 million
 
-9. Counties with largest and smallest per student spending? Total students? Largest student demographics?
-Largest - Somerset County: $21,330 per student; total students: 2,918; largest student demographic: 1,313 black students/45% student population
-Smallest - Queen Anne's County: $14,214 per student; total students: 7,778; largest student demographic: 6,192 white students/79.6% student population
+9. Top five counties with largest and smallest per student spending? Total students? Largest student demographics? How diverse?
+Largest - 
+1. Somerset County: $21,330 per student; total students: 2,918; largest student demographic: 1,313 black students/45% student population
+7th most diverse in state
+2. Montgomery County: $21,312 per student; total students: 161,456; largest student demographic: 49,704 Hispanic students/30% student 
+population; 4th most diverse in state
+3. Dorchester County: $20,293 per student; total students: 4,767 students; largest student demographic: 2,058 white students/43% student
+population; 9th most diverse in state
+4. Baltimore City: $19,062 per student; total students: 80,591 students; largest student demographic: 63,976 black students/79% student
+population; 2nd most diverse in state
+5. Allegany County: $18,558 per student; total students: 8,629; largest student demographic: 7,591 white students/88% student population;
+23rd most diverse in state
+Smallest - 
+1. Queen Anne's County: $14,214 per student; total students: 7,778; largest student demographic: 6,192 white students/79.6% student 
+population; 21st most diverse in state
+2. Saint Mary's County: $14,300 per student; total students: 18,053; largest student demographic: 11,580 white students/64% student 
+population; 16th most diverse in state
+3. Talbot County: $14,388 per student; total students: 4,646; largest student demographic: 2,713 white students/58% student population;
+11th most diverse in state
+4. Washington County: $14,589 per student; total students: 22,595 students; largest student demographic: 15,180 white students/67% 
+student population; 18th most diverse in state
+5. Caroline County: $15,031 per student; total students: 5,787; largest student demographic: 3,629 white students/63% student population;
+14th most diverse in state
 
 10. Per student spending for county with largest and smallest percentage white students?
 Largest % white students - Garrett County; 3,674 white students (96.4%); $15,547 per student
